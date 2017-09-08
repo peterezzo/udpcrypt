@@ -1,0 +1,10 @@
+{
+  "serverIp": "127.0.0.1",
+  "serverPort": 52361,
+  "heartbeatThreshold": 90,
+  "keyLifetime": 600
+  "serverKey": "EWaNbfVQ8BEBuSK254NhAUQLK3LMdWjn",
+  "communities": [
+    0
+  ]
+}

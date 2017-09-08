@@ -1,0 +1,6 @@
+{
+  "bindIp": "0.0.0.0",
+  "bindPort": 52361,
+  "heartbeatThreshold": 15,
+  "serverKey": "EWaNbfVQ8BEBuSK254NhAUQLK3LMdWjn"
+}
